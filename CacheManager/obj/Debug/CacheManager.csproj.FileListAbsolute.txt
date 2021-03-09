@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\bin\Debug\CacheManager.dll
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\bin\Debug\CacheManager.pdb
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\bin\Debug\DataManager.dll
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\bin\Debug\DataManager.pdb
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\obj\Debug\CacheManager.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\obj\Debug\CacheManager.dll
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\CacheManager\obj\Debug\CacheManager.pdb

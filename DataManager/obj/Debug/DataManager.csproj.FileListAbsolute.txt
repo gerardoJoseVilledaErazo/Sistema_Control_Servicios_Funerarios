@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\obj\Debug\DataManager.GUI.Prueba.resources
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\obj\Debug\DataManager.csproj.GenerateResource.Cache
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\bin\Debug\DataManager.dll
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\bin\Debug\DataManager.pdb
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\obj\Debug\DataManager.dll
+C:\Users\HP\source\repos\A VISUAL 2015\Sistema de Control de Servicios Funerarios\DataManager\obj\Debug\DataManager.pdb
